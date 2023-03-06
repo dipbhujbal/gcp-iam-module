@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"project_iam_binding.helper","Source":"../helper","Dir":"../../modules/helper"},{"Key":"","Source":"","Dir":"."},{"Key":"project_iam_binding","Source":"../../modules/projects_iam","Dir":"../../modules/projects_iam"}]}
