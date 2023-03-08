@@ -37,4 +37,3 @@ $ terraform apply -var-file=var.tfvars
 ```
 
 
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
