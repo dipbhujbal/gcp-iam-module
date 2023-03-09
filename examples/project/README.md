@@ -24,4 +24,4 @@ $ terraform init
 $ terraform plan -var-file=var.tfvars
 $ terraform apply -var-file=var.tfvars
 ```
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+**Note:** Modify the variable's values in **"var.tfvars"** file according to the requirements. 
